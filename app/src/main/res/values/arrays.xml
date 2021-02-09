@@ -9,4 +9,17 @@
         <item>reply</item>
         <item>reply_all</item>
     </string-array>
+
+    <string-array name="scripture_title">
+        <item>Ether 12:4</item>
+        <item>Ether 12:4</item>
+        <item>Ether 12:4</item>
+        <item>Ether 12:4</item>
+        <item>Ether 12:4</item>
+
+    </string-array>
+
+    <string-array name="scripture_faith">
+        <item>Wherefore, whoso believeth in God might with surety hope for a better world, yea, even a place at the right hand of God, which hope cometh of faith, maketh an anchor to the souls of men, which would make them sure and steadfast, always abounding in good works, being led to glorify God.</item>
+    </string-array>
 </resources>
